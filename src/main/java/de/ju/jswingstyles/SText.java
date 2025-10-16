@@ -34,7 +34,7 @@ public class SText {
         INSTANCE.setFont(INSTANCE.getFont().deriveFont(newSize));
     }
 
-    public JLabel getINSTANCE() {
+    public JLabel getInstance() {
         return INSTANCE;
     }
 
